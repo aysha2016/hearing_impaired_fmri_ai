@@ -1,9 +1,0 @@
-torch
-numpy
-nilearn
-scikit-learn
-matplotlib
-gym
-soundfile
-librosa
-git+https://github.com/danijar/dreamerv3.git
